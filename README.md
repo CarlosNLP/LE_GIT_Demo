@@ -1,2 +1,2 @@
-# l10n_course
-Dummy repository for the l10n course
+# LE_GIT_Demo
+Repository for the GIT Demo shown in the LE course
